@@ -209,11 +209,6 @@ color: blue;
 .section{
 font-size: 140%;
 font-weight: 500;
-padding-top: 30px; 
-padding-bottom:15px; 
-padding-left:0px; 
-text-align: left;
-/* padding:0px; */
 }
 /* 
 p a, table.affiliations a, table.menu a {
